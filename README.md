@@ -1,0 +1,2 @@
+# BankChurnersAdvancedAnalysisR
+The goal of this project is to identify and predict churn activity, churn is defined as customers who stop doing business with an entity, in this case a bank. The data set contains information on clients like age, dependents and other financial history, which results in 23 total columns and 10,127 observations. This analysis of the dataset included several regression techniques, principal component analysis and linear discriminant analysis.
